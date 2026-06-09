@@ -1,0 +1,16 @@
+{
+  "title": "The Death of Ivan Ilyitch",
+  "shortTitle": "The Death of Ivan Ilyitch",
+  "author": "Leo Tolstoy",
+  "translator": "?",
+  "year": 1886,
+  "source": "https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/various-translators",
+  "words": 23802,
+  "pulpDate": null,
+  "repo": "https://github.com/JohnQPulp/TheDeathOfIvanIlyitch",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich",
+  "blurb": "foo",
+  "blurb2": "bar",
+  "useAvif": true,
+  "authorWidth": null
+}
